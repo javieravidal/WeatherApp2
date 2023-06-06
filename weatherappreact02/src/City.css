@@ -1,0 +1,50 @@
+.City {
+    position: absolute;
+    color: white;
+    text-align: left;
+    width: 600px;
+    height: 400px;
+    margin-top: 100px;
+    margin-left: 70px;
+    font-size: 48px;
+    opacity: 97%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.currentDate {
+    position: absolute;
+    color: white;
+    text-align: left;
+    width: 600px;
+    height: 400px;
+    margin-top: 180px;
+    margin-left: 70px;
+    font-size: 14px;
+    opacity: 85%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+.currentTime {
+    position: absolute;
+    color: white;
+    text-align: left;
+    width: 600px;
+    height: 400px;
+    margin-top: 200px;
+    margin-left: 70px;
+    font-size: 14px;
+    opacity: 85%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.currentWeather {
+    position: absolute;
+    color: white;
+    text-align: left;
+    width: 600px;
+    height: 400px;
+    margin-top: 220px;
+    margin-left: 70px;
+    font-size: 14px;
+    opacity: 85%;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}

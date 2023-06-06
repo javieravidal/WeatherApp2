@@ -1,0 +1,28 @@
+.Search {
+    width: 600px;
+    height: 400px;
+    position: absolute;
+    color: white;
+    text-align: center;
+}
+
+.searchBar {
+    margin-top: 10px;
+    margin-right: 1px;
+    border-radius: 5px;
+    border: 0;
+    padding: 9px;
+    width: 300px;
+    font-size: 18px;
+}
+
+.searchButton {
+    border-radius: 5px;
+    margin-left: 1px;
+    text-decoration: none;
+    background-color: aqua;
+    border: 0;
+    width: 200px;
+    padding: 9px;
+    font-size: 18px;
+}

@@ -1,0 +1,93 @@
+.Forecast {
+    display: flex;
+    color: white;
+    text-align: center;
+    width: 500px;
+    height: 130px;
+    margin-top: 285px;
+    margin-left: 50px;
+    border-radius: 6px;
+}
+
+.Forecast .day1 {
+    color: white;
+    text-align: center;
+    width: 95px;
+    height: 140px;
+    margin-top: 2px;
+    margin-left: 4px;
+    border-radius: 6px;
+    border: 2px solid rgb(173, 220, 226);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+} 
+
+.icon1 {
+    width: 50px;
+    height: 50px;
+}
+.Forecast .day2 {
+    color: white;
+    text-align: center;
+    width: 95px;
+    height: 140px;
+    margin-top: 2px;
+    margin-left: 4px;
+    border-radius: 6px;
+    border: 2px solid rgb(173, 220, 226);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+} 
+.icon2 {
+    width: 50px;
+    height: 50px;
+}
+
+.Forecast .day3 {
+    color: white;
+    text-align: center;
+    width: 95px;
+    height: 140px;
+    margin-top: 2px;
+    margin-left: 4px;
+    border-radius: 6px;
+    border: 2px solid rgb(173, 220, 226);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+.icon3 {
+    width: 50px;
+    height: 50px;
+}
+
+.Forecast .day4 {
+    color: white;
+    text-align: center;
+    width: 95px;
+    height: 140px;
+    margin-top: 2px;
+    margin-left: 4px;
+    border-radius: 6px;
+    border: 2px solid rgb(173, 220, 226);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+} 
+.icon4 {
+    width: 50px;
+    height: 50px;
+}
+.Forecast .day5 {
+    color: white;
+    text-align: center;
+    width: 90px;
+    height: 140px;
+    margin-top: 2px;
+    margin-left: 4px;
+    margin-right: 2px;
+    border-radius: 6px;
+    border: 2px solid rgb(173, 220, 226);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+} 
+.icon5 {
+    width: 50px;
+    height: 50px;
+}

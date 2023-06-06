@@ -1,0 +1,19 @@
+.Container {
+    position: relative;
+    margin: 0 auto;
+    margin-top: 20px; 
+    border: 2px solid rgb(173, 220, 226);
+    width: 600px;
+    height: 450px;
+    z-index: 1;
+    opacity: 90%;
+    border-radius: 10px;
+}
+
+.Background {
+    position: relative;
+    display: flex;
+    background-color: black;
+    height: 620px;
+    z-index: 1;
+} 
